@@ -6,7 +6,7 @@ Description: Client for the Catalogue of Life ('CoL')
     'CoL' service, not the old one. Catalogue of Life is a database of
     taxonomic names. Includes functions for each
     of the API methods, including searching for names, and more.
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(person("Scott", "Chamberlain", role = c("aut", "cre"),
     email = "myrmecocystus@gmail.com",
     comment = c(ORCID = "0000-0003-1444-9135")),
@@ -15,7 +15,6 @@ License: MIT + file LICENSE
 URL: https://docs.ropensci.org/rcol/ (docs),
         https://github.com/ropensci/rcol
 BugReports: https://github.com/ropensci/rcol/issues
-LazyData: true
 Encoding: UTF-8
 Language: en-US
 Imports: crul, tibble, jsonlite, data.table, glue
@@ -26,9 +25,9 @@ X-schema.org-keywords: biology, science, API, web, api-client,
         taxonomy, species
 X-schema.org-isPartOf: https://ropensci.org
 NeedsCompilation: no
-Packaged: 2021-01-29 17:40:59 UTC; sckott
+Packaged: 2021-07-02 19:07:31 UTC; sckott
 Author: Scott Chamberlain [aut, cre] (<https://orcid.org/0000-0003-1444-9135>),
   rOpenSci [fnd] (https://ropensci.org/)
 Maintainer: Scott Chamberlain <myrmecocystus@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-02-05 08:30:03 UTC
+Date/Publication: 2021-07-02 19:20:02 UTC

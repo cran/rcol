@@ -1,7 +1,7 @@
-92ce784c6e258bad25874b171991000b *DESCRIPTION
-e34152a5351f580b172ee7093ca84124 *LICENSE
+82dfec1aa499d11b40cd06ddc1a9b820 *DESCRIPTION
+7fab78f788760aee205392ca12de3ba9 *LICENSE
 09013be67c2cdcc3f8f4233ca2b5c064 *NAMESPACE
-eef99cfec85b3db01e4020df8a5a2b3d *NEWS.md
+37e3d08a433d01a1c12a483641bddd3a *NEWS.md
 920ede5f07146ac0565179fa62f048c9 *R/cp_children.R
 ca92c53c473734691e5e9cb3a79942f1 *R/cp_classification.R
 324a363976bacfdb0002a037bbfd625b *R/cp_datasets.R
@@ -14,7 +14,7 @@ e5087be342d52db8bb332feb5e127de8 *R/cp_parser.R
 97ff51d0a123d3b62044b135753d4685 *R/cp_vocab.R
 1ccc32886b19636d239dd95fd58529e2 *R/http.R
 2528af7ab844490eb176915eb5cccb07 *R/rcol-package.R
-44cc04145a81c5b862049d3c47fe8a82 *R/zzz.R
+ea85cfa14230281505206cf04dcb81fc *R/zzz.R
 992a7c0309f29f529de3f872bc5a83f9 *man/cp_children.Rd
 8199ecdbee4688308b7f29207a2be9ac *man/cp_classification.Rd
 4232c5ccf024d761ec5e1ef27c823995 *man/cp_datasets.Rd
@@ -28,7 +28,7 @@ c1fdd6709806ad2f4cedac778d2f6aa1 *man/cp_nu_suggest.Rd
 95c91f197199e3cd0c39ef3e548823b7 *man/cp_vocab.Rd
 1f97c91a64428bc1908ce280ef79a9c8 *man/rcol-package.Rd
 73bd8a0b008b083e594a856aacf25fa9 *tests/fixtures/cp_children.json
-081baf7210287af0ef8bac85c0e88a5c *tests/fixtures/cp_classification.json
+ac026abdbb65dbd1a17cd53ad7f4b621 *tests/fixtures/cp_classification.json
 71b6e88184eb504cb4fbaa81a80ec4ce *tests/fixtures/cp_dataset.json
 66cf88b06ec0398f465f951268dff1d2 *tests/fixtures/cp_datasets.json
 e091adc0a8959b842893ba48591de763 *tests/fixtures/cp_ds.json
@@ -42,9 +42,9 @@ ffeb73f6fcd106b23592348a51bb65b7 *tests/fixtures/cp_parser.json
 ea071f1098342ae3ae1b3ea3892d1ea8 *tests/test-all.R
 7f76eac0a6b70ccb9ddb74a29ccccbf9 *tests/testthat/helper-rcol.R
 73b0db69bb243e8110e6b6a129649c77 *tests/testthat/test-cp_children.R
-5441f279ea83e9bba1655e061717e73f *tests/testthat/test-cp_classification.R
+9fe2766ab083e273375f029a7de29776 *tests/testthat/test-cp_classification.R
 b6f7686a039adc5f5aa0c324f1771629 *tests/testthat/test-cp_datasets.R
-af09b17048612abfec45b294b50422e0 *tests/testthat/test-cp_ds.R
+1c91a80d776e5aeae0051966a3e77ef1 *tests/testthat/test-cp_ds.R
 f168603a86ec05075e7a7bece48eadc9 *tests/testthat/test-cp_importer.R
 268b7a13fceec57b71f2eeceaccf6ecd *tests/testthat/test-cp_name_match.R
 5a81f4f070ca3c65d75d0123ff4a9f91 *tests/testthat/test-cp_nu_search.R
